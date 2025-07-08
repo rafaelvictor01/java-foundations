@@ -11,3 +11,4 @@
 | Exercício                 | Descrição                                                                                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Ex01](Lista02_Ex01.java) | Crie um algoritmo que calcule a soma e a média de 3 números passados pelo usuário.                                                  |
+| [Ex02](Lista02_Ex02.java) | Implemente um algoritmo que receba 3 números reais de entrada. Calcule e mostre o resultado da multiplicação dos dois primeiros números dividido pelo terceiro número fornecido pelo usuário. Sabe-se que o denominador não pode ser zero, mas neste momento não se preocupe com as validações.                                                |
